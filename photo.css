@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.bg {
+  background: url('https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=449&q=80')
+    no-repeat center center/cover;
+  position: absolute;
+  top: -30px;
+  left: -30px;
+  width: calc(100vw + 60px);
+  height: calc(100vh + 60px);
+  z-index: -1;
+  filter: blur(0px);
+
+  background-size: auto 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  border-radius: 50px;
+  color: #fff;
+  cursor: pointer;
+  flex: 0.5;
+  margin: 10px;
+}
+
+.loading-text {
+  font-size: 50px;
+  color: #fff;
+}
+
+button.link {
+  cursor: pointer;
+  width: 7%;
+  background: lightblue;
+  padding: 15px;
+  font-family: inherit;
+  color: #fff;
+  font-size: 16px;
+  border: 0;
+  border-radius: 5px;
+  position: absolute;
+  left: 455px;
+  bottom: 70px;
+}
+
+button.link:focus {
+  outline: 0;
+}
+
+button.link:hover {
+  transform: scale(0.98);
+}

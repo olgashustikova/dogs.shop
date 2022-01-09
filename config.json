@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Funny Friend",
+        "photoMain": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=417&q=80",
+        "nameDog": "COOPER",
+        "photoDetails": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "description": "The black Pug is not a separate breed. But it is one of the two official colors that the standard Pug breed comes in. The temperament of this breed is partly why it is so loved.Black Pugs are adorable, you can find big bulging eyes, folded small ears on their short and wrinkly flat face.Their barrel-shaped bodies are only supported by small and short legs. Their tails are curled and fall off. They have the characteristic skin folds of the Pug with their mask and coat blending. Black Pugs are small dogs that can adjust to any lifestyle. However, with its brachycephalic nature and short built, this adorable pup may not always be the right fit.To understand whether the black Pug is the right choice for you, let’s take a look at their history first.",
+        "photoDetails2": "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=449&q=80"
+    },
+    {
+        "name": "Snow Dog",
+        "photoMain": "https://images.unsplash.com/photo-1596492784531-6e6eb5ea9993?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "nameDog": "WALTER",
+        "photoDetails": "https://images.unsplash.com/photo-1611013106532-941fb91e8ac2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "description": "Dogs, like humans, are highly social animals and this similarity in their overall behavioural pattern accounts for their trainability, playfulnes and ability to fit into human households and social situations. This similarity has earned dogs a unique position in the realm of interspecies relationships.The loyalty and devotion that dogs demonstrate as part of their natural instincts as pack animals closely mimics the human idea of love and friendship, leading many dog owners to view their pets as full-fledged family members.",
+        "photoDetails2": "https://images.unsplash.com/photo-1510771463146-e89e6e86560e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80"
+    }, 
+    {
+        "name": "Faithful Companion", 
+        "photoMain": "https://images.unsplash.com/photo-1503256207526-0d5d80fa2f47?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+        "nameDog": "JASPER",
+        "photoDetails": "https://images.unsplash.com/photo-1530126483408-aa533e55bdb2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+        "description": "A pet dog will fit easily into family life and environment, they of course need caring for as any other pet – feeding, grooming, bathing and when ill, will need a visit to the vets. Dogs thrive on affection and will happily wag its tail when showered with love and attention. Dogs will also sit and sulk if they get told off for doing something wrong.A well-mannered dog must be trained properly and with patience and perciverence. You must never mistreat a dog at any time as not only is it very wrong to mistreat any animal, but some will bite in their own defense.",
+        "photoDetails2": "https://images.unsplash.com/photo-1491604612772-6853927639ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    }, 
+    {
+        "name": "Laughing Dog",
+        "photoMain": "https://images.unsplash.com/photo-1588269845464-8993565cac3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "nameDog": "LUCKY",
+        "photoDetails": "https://images.unsplash.com/photo-1596116082596-7a0da930b9aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "Dogs can be taught how to do things. Throw a small branch, stick or frizzbee and you can teach your dog to go fetch and bring the item back to you. Dogs have nearly 220 million smell-sensitive cells over an area about the size of a pocket handkerchief (compared to 5 million over an area the size of a postage stamp for humans). Some breeds have been selectively bred for excellence in detecting scents.What information a dog actually detects when he is scenting is not perfectly understood. Although once a matter of debate, it now seems to be well established that dogs can distinguish two different types of scents when trailing an air scent from some person or thing that has recently passed by, as well as a ground scent that remains detectable for a much longer period.",
+        "photoDetails2": "https://images.unsplash.com/photo-1559190394-df5a28aab5c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    }, 
+    {
+        "name": "Little Friend",
+        "photoMain": "https://images.unsplash.com/photo-1556796879-160fd67614ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+        "nameDog": "BAXTER",
+        "photoDetails": "https://images.unsplash.com/photo-1520038410233-7141be7e6f97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80",
+        "description": "Dogs are regarded differently in different parts of the world. Characteristics of loyalty, friendship, protectiveness, and affection have earned dogs an important position in Western society, and in the United States and Europe the care and feeding of dogs has become a multibillion-dollar business. Western civilization has given the relationship between human and dog great importance, but, in some of the developing nations and in many areas of Asia, dogs are not held in the same esteem. In some areas of the world, dogs are used as guards or beasts of burden or even for food, whereas in the United States and Europe dogs are protected and admired. In ancient Egypt during the days of the pharaohs, dogs were considered to be sacred.",
+        "photoDetails2": "https://images.unsplash.com/photo-1487001175664-86de872e3cd6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=372&q=80"
+    }, 
+    {
+        "name": "Cute Puppy",
+        "photoMain": "https://images.unsplash.com/photo-1615233500064-caa995e2f9dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "nameDog": "ROMEO",
+        "photoDetails": "https://images.unsplash.com/photo-1588022274642-f238f77ec193?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "description": "Dogs have played an important role in the history of human civilization and were among the first domesticated animals. They were important in hunter-gatherer societies as hunting allies and bodyguards against predators. When livestock were domesticated about 7,000 to 9,000 years ago, dogs served as herders and guardians of sheep, goats, and cattle. Although many still serve in these capacities, dogs are mainly used for social purposes and companionship. Today dogs are employed as guides for the blind and disabled or for police work. Dogs are even used in therapy in nursing homes and hospitals to encourage patients toward recovery. Humans have bred a wide range of different dogs adapted to serve a variety of functions. This has been enhanced by improvements in veterinary care and animal husbandry.",
+        "photoDetails2": "https://images.unsplash.com/photo-1496982411516-bfb7eb1c74e1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+    }, 
+    {
+        "name": "Smart Dog",
+        "photoMain": "https://images.unsplash.com/photo-1535930749574-1399327ce78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80",
+        "nameDog": "CHESTER",
+        "photoDetails": "https://images.unsplash.com/photo-1615233500147-5b196365bf3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "description": "The dog is a social creature. It prefers the company of people and of other dogs to living alone. It is, therefore, considered by animal behaviourists to be a pack animal. In this respect it is similar to its distant relative the wolf. As a result of millennia of selective breeding, the dog has been adapted to live with people. Seminal studies of dog behaviour conducted in the 1950s and ’60s showed, however, that dogs raised without human contact at an early age retain their inherent instincts and prefer relationships with other dogs over associations with people.",
+        "photoDetails2": "https://images.unsplash.com/photo-1517964764-0d7297e9eaf8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+    } 
+]
+
+
+
